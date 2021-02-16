@@ -1,2 +1,2 @@
- DATABASE_URL = 'postgres://qcpjcgfeowcrjg:929123cefb031970bdbdf3b27030a010a4380efede1e4a8d5af255afd355eb52@ec2-34-203-155-237.compute-1.amazonaws.com:5432/d9f38iqfoier5t'
- HEROKU_POSTGRESQL_CHARCOAL_URL='postgres://zrtblvehngzilp:d142533006ec7f066e0f30d799dbe15c29accd7f0bb7055cc8bf5104503477d4@ec2-34-203-155-237.compute-1.amazonaws.com:5432/de5q2io9jkut0o'
+ DATABASE_URL = 'postgres://localhost:5432/herokutest'
+ 
